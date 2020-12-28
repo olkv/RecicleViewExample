@@ -1,5 +1,6 @@
 package com.example.recicleviewexample
 
-class CCatalog {
+data class CCatalog(val title:String, val content:String, val price:Float)
+{
 
 }
