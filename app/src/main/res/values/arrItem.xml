@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrName">
+        <item>Хлеб "Бородинский"</item>
+        <item>Мука пшеничная высший сорт</item>
+    </string-array>
+
+    <string-array name="arrContent">
+        <item>
+            Изготовлен из ржанной муки.
+        </item>
+        <item>
+            Произведено на заводе "Мука"
+        </item>
+    </string-array>
+</resources>
