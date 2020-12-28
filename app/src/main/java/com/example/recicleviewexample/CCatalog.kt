@@ -1,6 +1,7 @@
 package com.example.recicleviewexample
 
-data class CCatalog(val title:String, val content:String, val price:Float)
-{
-
-}
+data class CCatalog (
+    var title:String,
+    var content:String,
+    var price:Float
+    )
