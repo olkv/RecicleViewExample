@@ -13,4 +13,10 @@
             Произведено на заводе "Мука"
         </item>
     </string-array>
+
+    <array name="arrPrice">
+        <item>10</item>
+        <item>12</item>
+    </array>
+
 </resources>
