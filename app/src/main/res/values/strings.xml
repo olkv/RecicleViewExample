@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecicleViewExample</string>
+    <string name="valprice">руб.</string>
 </resources>
